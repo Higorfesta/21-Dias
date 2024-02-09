@@ -1,0 +1,2 @@
+- Ensinado os repositórios presentes (local e online)
+- Como usar o prompt para navegar entre as pastas, criar e transferir arquivos para o repositório online (github)

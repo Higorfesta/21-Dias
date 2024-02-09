@@ -1,0 +1,2 @@
+- Nessa aula foi mostrado por qual ferramenta se programará nos próximos dias, e como inserir e interligar um programa java num html para organização do código.
+- Primeira linha de código "Olá Mundo"
