@@ -1,0 +1,8 @@
+- Variáveis são valores que podemos guardar:
+String = Valores em texto
+Number = Valores em números
+Boolean = True e False
+
+- Usamos let ou const para colocar valor em uma variável
+Let para valores que podem ser modificados durante o código
+Const para valores que manterão uma constância
